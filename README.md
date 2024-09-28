@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/saadaink" target="_blank">
+  <a href="https://www.linkedin.com/in/saadaink/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:saadaink23@gmail.com" target="_blank">
@@ -21,7 +21,17 @@
 
 ###
 
-<p align="left">✨ Working on : Free.fi, freelancepay.is, vocablytics-ai.com<br>📈 Recent Acheivments/ Projects : Data engineering Profesional Certificate, finbotti.vercel.app<br>📚 I'm currently learning : Generative Modeling, Kubernetes, FastAPI</p>
+<p align="left">✨ Working on : 
+  <a href="https://free.fi" target="_blank">Free.fi</a>, 
+  <a href="https://freelancepay.is" target="_blank">freelancepay.is</a>, 
+  <a href="https://vocablytics-ai.com" target="_blank">vocablytics-ai.com</a><br>
+📈 Recent Achievements/Projects : 
+  <a href="https://www.coursera.org/professional-certificates/google-data-engineering](https://www.coursera.org/account/accomplishments/professional-cert/6UDYCL2J6AXP?utm_source=link&amp;utm_medium=certificate&amp;utm_content=cert_image&amp;utm_campaign=sharing_cta&amp;utm_product=prof" target="_blank">Data Engineering Professional Certificate</a>, 
+  <a href="https://finbotti.vercel.app" target="_blank">finbotti.vercel.app</a><br>
+📚 I'm currently learning : 
+  Generative Modeling, Kubernetes, FastAPI
+</p>
+
 
 ###
 
@@ -63,6 +73,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://spark.apache.org/images/spark-logo-trademark.png" height="40" alt="pyspark logo"  />
 </div>
 
 ###
@@ -73,11 +85,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="cassandra logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png" height="40" alt="airflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Data_build_tool_%28dbt%29_logo.svg/640px-Data_build_tool_%28dbt%29_logo.svg.png" height="40" alt="dbt logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" height="40" alt="google bigquery logo" />
+  <img width="12" />
+  <img src="https://lh3.googleusercontent.com/D5BktT3fwzzlSfpvpZu3KACBPyKpypuOyWvvJBeMvJ050D3CXlj5XEuSgKi8kWnRno3IyXKnudpks38SURQ2" height="40" alt="google datastream logo" />
+  <img width="12" />
+  <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jqycac4nitgaoauawrxg" height="40" alt="looker studio logo" />
 </div>
 
 ###
 
 <h2 align="left">GenAI</h2>
+
+###
+
+<div align="left">
+  <img src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png" height="40" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" height="40" alt="openai logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/RMNCLDYO/groq-ai-toolkit/main/.github/groq-logo.png" height="40" alt="groq logo"  />
+</div>
 
 ###
 
@@ -119,10 +160,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Saadain23/Saadain23/output/snake.svg" alt="Snake animation" />
 
 ###
 
