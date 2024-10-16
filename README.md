@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Data & Tech enthusiast based in Helsinki. Professionally, I am a Support Specialist at Free.fi, with major workload in Data, Google Cloud and development in React, MySQL & Java spring boot. Academically, I am pursuing Software and Systems Engineering. In my personal time, I like to explore Data, GenAI and build related web applications and projects.</p>
+<p align="left">I am a Data & Tech enthusiast based in Helsinki. Professionally, I am a Data & Support Specialist at Free.fi, with major workload in Data, Google Cloud and development in React, MySQL & Java spring boot. Academically, I am pursuing Software and Systems Engineering. In my personal time, I like to explore Data, GenAI and build related web applications and projects.</p>
 
 ###
 
