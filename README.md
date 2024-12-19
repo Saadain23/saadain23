@@ -25,7 +25,7 @@
   <a href="https://free.fi" target="_blank">Free.fi</a>, 
   <a href="https://freelancepay.is" target="_blank">freelancepay.is</a>, 
   <a href="https://vocablytics-ai.com" target="_blank">vocablytics-ai.com</a><br>
-  Working on : <a href="https://metronix.io" target="_blank">metronix.io</a>, <a href="https://metronix.io" target="_blank">GenMail</a><br>
+  Working on : <a href="https://metronix.io" target="_blank">metronix.io</a>, <a href="" target="_blank">GenMail</a><br>
 📈 Recent Achievements/Projects : 
   <a href="https://www.coursera.org/professional-certificates/google-data-engineering](https://www.coursera.org/account/accomplishments/professional-cert/6UDYCL2J6AXP?utm_source=link&amp;utm_medium=certificate&amp;utm_content=cert_image&amp;utm_campaign=sharing_cta&amp;utm_product=prof" target="_blank">Data Engineering Professional Certificate</a>, 
   <a href="https://finbotti.vercel.app" target="_blank">finbotti.vercel.app</a><br>
