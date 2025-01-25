@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1023/1*du7p50wS_fIsaC_lR18qsg.png" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/django-original.svg" height="40" alt="djago logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="40" alt="djago logo"  />
 </div>
 
 ###
