@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://miro.medium.com/v2/resize:fit:1023/1*du7p50wS_fIsaC_lR18qsg.png" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-django-python-computer-icons-logo-portable-network-6111403%2F&psig=AOvVaw3krpTpdIjYAt1VuWfGZ4rS&ust=1737931142734000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIir8ZT4kYsDFQAAAAAdAAAAABAI" height="40" alt="djago logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.djangoproject.com%2Fcommunity%2Flogos%2F&psig=AOvVaw3krpTpdIjYAt1VuWfGZ4rS&ust=1737931142734000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIir8ZT4kYsDFQAAAAAdAAAAABAQ" height="40" alt="djago logo"  />
 </div>
 
 ###
