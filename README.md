@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Connect</h2>
 
 ###
 
@@ -18,19 +18,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="left">✨ Worked on : 
-  <a href="https://free.fi" target="_blank">Free.fi</a>, 
-  <a href="https://freelancepay.is" target="_blank">freelancepay.is</a>
-  Working on : <a href="https://metronix.io" target="_blank">metronix.io</a>, <a href="" target="_blank">GenMail</a><br>
-📈 Recent Achievements/Projects : 
-  <a href="https://www.coursera.org/professional-certificates/google-data-engineering](https://www.coursera.org/account/accomplishments/professional-cert/6UDYCL2J6AXP?utm_source=link&amp;utm_medium=certificate&amp;utm_content=cert_image&amp;utm_campaign=sharing_cta&amp;utm_product=prof" target="_blank">Data Engineering Professional Certificate</a>, 
-  <a href="https://finbotti.vercel.app" target="_blank">finbotti.vercel.app</a><br>
-📚 I'm currently learning : 
-  Generative Modeling, Kubernetes, FastAPI
-</p>
 
 
 ###
